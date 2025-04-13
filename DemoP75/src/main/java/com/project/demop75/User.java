@@ -25,9 +25,6 @@ public class User {
         this.email = email;
     }
 
-    public void updateEmail(String newEmail) {
-        this.email = newEmail;
-    }
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
